@@ -77,7 +77,7 @@ variable "ssh_public_keys" {
 variable "workshop_url" {
     type = string
     description = "github url of workshop"
-    default = "https://github.com/mando222/WorkshopTemplate.git"
+    default = "https://github.com/MayaLearning/WorkshopTemplate.git"
 }
 
 variable "flannel_version" {
